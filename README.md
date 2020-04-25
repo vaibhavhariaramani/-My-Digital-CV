@@ -1,5 +1,5 @@
 # My-Digital-CV
-<img src ="Snapshots/talk to vaibhav.jpg" width= "19%" height ="50%"> <img src ="Snapshots/app descriptor.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/about.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/04.png" width= "19%" height ="50%">
+<img src ="Snapshots/talk to vaibhav.jpg" width= "19%" height ="50%"> <img src ="Snapshots/app descriptor.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/about.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/contact.jpeg" width= "19%" height ="50%">
 <img src ="Snapshots/05.png" width= "19%" height ="50%">
 
 
