@@ -38,6 +38,21 @@ Please raise an issue of the requirement or problem in deploy the project so tha
 
 Please see the Tutorial/Setup [Document Tutorials](https://github.com/vaibhavhariaramani/-My-Digital-CV/tree/master/Document%20Tutorials) or [Video Tutorials](https://github.com/vaibhavhariaramani/-My-Digital-CV/tree/master/Video%20Tutorial) for full references.
 
+
+### Made with ❤️by Vaibhav Hariramani
+#### About me
+
+I am an Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
+I have a keen interest in Image processing and Andriod development.
+I am Currently studying at  Chandigarh University, Punjab.
+
+You can find me at:-
+[Linkedin](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) or [Github](https://github.com/vaibhavhariaramani) .
+
+Happy coding ❤️ .
+
+
+
 ### Contact Us
 * [LinkedIn](https://www.linkedin.com/in/vaibhav-hariramani-087488186/) 
 * [Email](vaibhav.hariramani01@gmail.com)
