@@ -27,7 +27,7 @@ Easy to use the [template](https://github.com/vaibhavhariaramani/-My-Digital-CV/
 3. Deploy the project for Review.
 
 ### Bonus Point
-- [Video Tutorials](https://www.youtube.com/playlist?list=PLnBXWQHTJNuE3_fWm37CGakRIMtJfMRvS) and [Document Tutorials](https://github.com/vaibhavhariaramani/-My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
+- [Video Tutorials](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU) and [Document Tutorials](https://github.com/vaibhavhariaramani/-My-Digital-CV/tree/master/Document%20Tutorials) are available, follow the document step-by-step and make your digital CV better.
 - Please see [Sample](https://assistant.google.com/services/a/uid/000000ec94ce6de1?hl=en)
  app for full example. 
  - Disable "Small Talk" if you get any error regarding "MIC POLICY".
