@@ -8,6 +8,13 @@
 
 ### [<img width= "60%" height ="50%" src="https://github.com/vaibhavhariaramani/OK-Google-Virtual-Resume-on-Google-Assistant/blob/master/Snapshots/resume%20screen.png">](https://assistant.google.com/services/a/uid/000000bf983491f0?hl=en-US&source=web) 
 
+### Virtual Resume Template `"OK-Google-Virtual-Resume-on-Google Assistant"` help you to develop a `#DigitalResume` with `#GoogleAssistant` Resume.
+<img src ="Snapshots/about.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/contact.jpeg" width= "19%" height ="50%">
+<img src ="Snapshots/skills.jpeg" width= "19%" height ="50%">
+
+
+
+
 # All Credits goes to :
 
 <table>
@@ -22,11 +29,7 @@
 ### create your Digital resume within 20-30 minutes through the Digital Interactive virtual resume template. 
 Your resume would also work live on Google Assistant. Make your resume more interesting and interactive, just, download the project and start working on it by following the steps given in the tutorial video here: [Youtube](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)[![Youtube Badge](https://img.shields.io/badge/-Geeky_Bawa-1ca0f1?style=flat-circle&labelColor=d54b3d&logo=youtube&logoColor=white&link=https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)
 
-<img src ="Snapshots/talk to vaibhav.jpg" width= "19%" height ="50%"> <img src ="Snapshots/app descriptor.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/about.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/contact.jpeg" width= "19%" height ="50%">
-<img src ="Snapshots/skills.jpeg" width= "19%" height ="50%">
 
-
-Virtual Resume Template "OK-Google-Virtual-Resume-on-Google Assistant" help you to develop a #DigitalResume with #GoogleAssistant Resume.
 
 
 
