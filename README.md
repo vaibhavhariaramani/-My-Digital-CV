@@ -4,7 +4,7 @@
 
 ### Checkout my published Action on Google Assistant [here](https://assistant.google.com/services/a/uid/000000bf983491f0?hl=en-US&source=web) :
 
- Virtual Resume Template "OK-Google-Virtual-Resume-on-Google Assistant" help you to develop a #DigitalResume with #GoogleAssistant as Resume.
+ Virtual Resume Template "OK-Google-Virtual-Resume-on-Google Assistant" helps you to develop a #DigitalResume with #GoogleAssistant as Resume.
 
 ### [<img width= "40%" height ="50%" src="https://github.com/vaibhavhariaramani/OK-Google-Virtual-Resume-on-Google-Assistant/blob/master/Snapshots/resume%20screen.png">](https://assistant.google.com/services/a/uid/000000bf983491f0?hl=en-US&source=web) <img src ="Snapshots/about.jpeg" width= "20%" height ="50%"> <img src ="Snapshots/contact.jpeg" width= "20%" height ="50%">
 
