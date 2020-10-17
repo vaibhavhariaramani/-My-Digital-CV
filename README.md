@@ -22,8 +22,8 @@ All Credits goes to :
       <td align="center"><a href="https://github.com/sharmaaayu981"><img src="Developers/ayushSharma.png" width="100px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></br> Contributor</sub></a></td>
       <td align="center"><a href="https://www.linkedin.com/in/kamal-vaid/"> <img src="Developers/kamalVaid.png" width="100px;" alt="Kamal Vaid"/><br /><sub><b>Kamal vaid</b></br>Contributor</sub></a></td>
       <td align="center"><a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img src="Developers/vaibhav.png" width="100px;" alt="Vaibhav Hariramani"/><br /><sub><b>Vaibhav Hariramani</b></br> </sub></a></td>  
-      
       </tr>
+</table>
 
 create your Digital resume within 20-30 minutes through the Digital Interactive virtual resume template. Your resume would also work live on Google Assistant. Make your resume more interesting and interactive, check out my #GitHub repo, download the project and start working on it by following the steps given in the tutorial video here: https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU
 
@@ -80,11 +80,4 @@ Happy coding ❤️ .
 * [Email](vaibhav.hariramani01@gmail.com)
 * [Twitter](https://twitter.com/vaibhavhariram2)
 
-### MIT LIcense
-Copyright (c) [2020] [VAIBHAV,Kamal]
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
