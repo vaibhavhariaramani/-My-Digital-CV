@@ -1,4 +1,11 @@
-# My-Digital-CV
+# OK-Google-Virtual-Resume-on-Google Assistant 
+
+## Create your own Action on Google Assistant by this repo as template
+
+### Checkout my published Action on Google Assistant [here](https://assistant.google.com/services/a/uid/000000bf983491f0?hl=en-US&source=web) :
+
+### [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://assistant.google.com/services/a/uid/000000bf983491f0?hl=en-US&source=web) 
+
 <img src ="Snapshots/talk to vaibhav.jpg" width= "19%" height ="50%"> <img src ="Snapshots/app descriptor.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/about.jpeg" width= "19%" height ="50%"> <img src ="Snapshots/contact.jpeg" width= "19%" height ="50%">
 <img src ="Snapshots/skills.jpeg" width= "19%" height ="50%">
 
