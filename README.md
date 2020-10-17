@@ -12,10 +12,10 @@
 
 <table>
     <tr>       
-      <td align="center"><a href="https://www.linkedin.com/in/sharmaayush981/"><img src="Developers/ayushSharma.png" width="100px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></br> Maintainer</sub></a></td>
-      <td align="center"><a href="https://github.com/sharmaaayu981"><img src="Developers/ayushSharma.png" width="100px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></br> Contributor</sub></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/kamal-vaid/"> <img src="Developers/kamalVaid.png" width="100px;" alt="Kamal Vaid"/><br /><sub><b>Kamal vaid</b></br>Contributor</sub></a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img src="Developers/vaibhav.png" width="100px;" alt="Vaibhav Hariramani"/><br /><sub><b>Vaibhav Hariramani</b></br> </sub></a></td>  
+      <td align="center"><a href="https://www.linkedin.com/in/sharmaayush981/"><img src="Developers/ayushSharma.png" width="180px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></br> Maintainer</sub></a></td>
+      <td align="center"><a href="https://github.com/sharmaaayu981"><img src="Developers/ayushSharma.png" width="180px;" alt="Ayush Sharma"/><br /><sub><b>Ayush Sharma</b></br> Contributor</sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/kamal-vaid/"> <img src="Developers/kamalVaid.png" width="180px;" alt="Kamal Vaid"/><br /><sub><b>Kamal vaid</b></br>Contributor</sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img src="Developers/vaibhav.png" width="180px;" alt="Vaibhav Hariramani"/><br /><sub><b>Vaibhav Hariramani</b></br> ML enthusiast</sub></a></td>  
       </tr>
 </table>
 
