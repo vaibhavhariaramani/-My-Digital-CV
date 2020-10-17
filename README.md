@@ -23,10 +23,12 @@
       </tr>
 </table>
 
-## Create your `Digital Resume` within 20-30 minutes through the `**Digital Interactive virtual resume template**`
-===
+### Create your `Digital Resume` within 20-30 minutes through the `Digital Interactive virtual resume template`
 
-Your resume would also work live on Google Assistant. Make your resume more interesting and interactive, just, download the project and start working on it by following the steps given in the tutorial video here: [Youtube](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)[![Youtube Badge](https://img.shields.io/badge/-Geeky_Bawa-1ca0f1?style=flat-circle&labelColor=d54b3d&logo=youtube&logoColor=white&link=https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)
+
+Your resume would also work live on Google Assistant. 
+Make your resume more interesting and interactive, just, [download](https://github.com/vaibhavhariaramani/OK-Google-Virtual-Resume-on-Google-Assistant/archive/master.zip) the project and start working on it by following the steps given in the tutorial video here: 
+## [Youtube](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)[![Youtube Badge](https://img.shields.io/badge/-Geeky_Bawa-1ca0f1?style=flat-circle&labelColor=d54b3d&logo=youtube&logoColor=white&link=https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)](https://www.youtube.com/playlist?list=PLj1rwJ0GTMiUYQLytSMpC_Cl5uWl1InVU)
 
 
 
